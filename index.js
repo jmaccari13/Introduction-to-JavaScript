@@ -17,10 +17,14 @@ Do the following:
 
    HINT: no function required
 */
+let votingAge = 18;
+console.log (votingAge);
 
 
 
-/*
+
+
+ /*
 Task 1b - Values
 
 Do the following:   
@@ -31,9 +35,12 @@ Do the following:
    HINT: no function required
 */
 
+var firstName = 'Brandi';
+let lastName = 'Williams';
+console.log (firstName ='Deanna');
 
 
-
+ 
 
 /*
 Task 1c - Convert Strings to Numbers
@@ -45,6 +52,7 @@ Do the following:
 
    HINT: look up the Number method
 */
+let 
 
 
 
